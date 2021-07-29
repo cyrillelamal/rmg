@@ -23,8 +23,8 @@ rmg -g .DS_Store -s ./Music
 
 `-g --glob` - [the glob pattern to match](https://www.php.net/manual/en/function.glob.php).
 
-`-s --start` - the directory where to start from.
-
 ### Optional
+
+`-s --start` - the directory where to start from (defaults to the current directory).
 
 `-v --verbose` - if set, print the progress to the stdout.
