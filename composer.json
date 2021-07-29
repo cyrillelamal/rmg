@@ -1,0 +1,14 @@
+{
+  "name": "cyrillelamal/rmg-r",
+  "description": "Find recursively and remove",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cyrille",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
